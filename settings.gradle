@@ -1,0 +1,3 @@
+include ':CountryPickerLibrary'
+include ':app'
+rootProject.name = "CountryPickerExample"

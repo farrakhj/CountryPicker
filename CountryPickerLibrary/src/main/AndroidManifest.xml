@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="pk.farrakhj.countrypickerlibrary">
+
+    <application>
+        <activity
+            android:name=".views.CountriesActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/noActionBar"
+            android:windowSoftInputMode="stateHidden">
+        </activity>
+    </application>
+</manifest>
